@@ -10,13 +10,7 @@ int main(){
        	cout<<subtract(5,3)<<endl;
 	
 	return 0;
-	
 }
-
-int add(int a, int b){
-  int r;
-  r = a+b;
-  return r;
   
 }
 int subtract(int a, int b){
